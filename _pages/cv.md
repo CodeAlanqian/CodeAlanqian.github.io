@@ -7,58 +7,30 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.Eng. in Electronic Information**, Southern University of Science and Technology (SUSTech)
+* **B.Eng. in Communication Engineering**, South China Normal University (SCNU)
 
-Work experience
+Research interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Vision-Language Navigation (VLN) and embodied intelligence
+* Robot perception, SLAM, and autonomous navigation
+* Reinforcement learning and large language models for robotics
+* RoboMaster and intelligent vehicle systems
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Technical skills
+======
+* **Languages:** C/C++, Python, Java, Go
+* **Robotics:** ROS, SLAM, LiDAR, PX4, autonomous navigation
+* **Machine learning:** PyTorch, SpikingJelly, reinforcement learning
+* **Engineering:** Linux, Git, Qt
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **VANGUARD RoboMaster Team, South China Normal University**
+  * Worked on robot vision, mapping, navigation, and autonomous systems.
 
-Publications
+Open-source
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+See the [selected projects](/portfolio/) or [GitHub profile](https://github.com/CodeAlanqian).
