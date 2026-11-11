@@ -23,7 +23,7 @@ repository               : "CodeAlanqian/CodeAlanqian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://codealan.top/gyq.jpg"
   name             : "龚易乾 / Yiqian Gong"
   pronouns         : # example: "she/her"  
   bio              : "M.Eng. student at SUSTech researching robotics, VLN, and SLAM."
