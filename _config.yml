@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Yiqian Gong"
 title_separator          : "-"
 name                     : &name "Yiqian Gong"
-description              : &description "Yiqian Gong - Robotics, Vision-Language Navigation, SLAM, and RoboMaster"
+description              : &description "Yiqian Gong - Embodied AI, Vision-Language Navigation, robotics, and SLAM"
 url                      : https://codealanqian.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
